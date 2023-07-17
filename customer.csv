@@ -1,0 +1,17 @@
+age,income,student,creditrating,class,sem,sub
+youth,high,no,fair,no,3,null
+youth,high,no,excellent,no,2,null
+middleaged,high,no,fair,yes,5,null
+senior,medium,no,fair,yes,3,null
+senior,low,yes,fair,yes,2,null
+senior,low,yes,excellent,no,8,null
+middleaged,low,yes,excellent,yes,5,null
+youth,medium,no,fair,no,2,null
+youth,low,yes,fair,yes,5,null
+senior,medium,yes,fair,yes,5,null
+youth,medium,yes,excellent,yes,3,null
+middleaged,medium,no,excellent,yes,7,null
+middleaged,low,yes,fair,yes,8,null
+senior,medium,no,excellent,no,3,null
+senior,medium,no,excellent,no,5,null
+senior,medium,no,excellent,no,2,null
